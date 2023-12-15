@@ -44,7 +44,7 @@ import logo from './logo.svg';
 import attack from './attack.png';
 import defense from './defense.png';
 import alertIcon from './alertIcon.svg';
-import AlertIcon from './AlertIcon.jsx';
+import AlertIcon from './AlertIcon.svelte';
 
 // players
 import player01 from './player01.png';
